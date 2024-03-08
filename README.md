@@ -2,7 +2,7 @@ React Native Expo based screenshot app.
 
 ```bash
 npm i
-npm expo start
+npx expo start
 ```
 
 Inspiration from [here](https://docs.expo.dev/tutorial/introduction/).
